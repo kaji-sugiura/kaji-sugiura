@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/kaji-sugiura/kaji-sugiura/">
+    <img src="https://komarev.com/ghpvc/?username=kaji-sugiura" alt="kaji-sugiura" />
+  </a>
+  <a href="https://github.com/kaji-sugiura">
+    <img height="20" src="https://img.shields.io/github/followers/kaji-sugiura?label=follow&logo=github&style=flat" />
+  </a>
+</p>
